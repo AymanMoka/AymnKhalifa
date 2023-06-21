@@ -3,6 +3,8 @@
 
 - 🔭 I’m currently working on [Hi-App](https://github.com/AymnKhalifa/hi-spa)
 
+- 🌱 I’m currently learning **React,Tailwind CSS**
+
 - 📫 How to reach me **Ayman.elsawy94@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
