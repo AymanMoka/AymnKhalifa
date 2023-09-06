@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ayman Khalifa</h1>
 <h3 align="center">A passionate mean stack developer</h3>
 
-- 🔭 I’m currently working on [Hi-App](https://github.com/AymnKhalifa/hi-spa)
-
 - 🌱 I’m currently learning **Flutter**
 
 - 📫 How to reach me **Ayman.elsawy94@outlook.com**
